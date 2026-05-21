@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "cdd1a5f458a35788",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5de2df0fb61c0f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f272bc06d66cd942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21140cf7f6f5c54f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9c62b3b972c374a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4890d910156f008",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "34145478c2c20e7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bed4723675c88542",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e61c86c872865a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c808002065a19411",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "229022aaae96c9b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Docker"
+            }
+          },
+          {
+            "id": "71477bc5bce51708",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Docker"
+            }
+          },
+          {
+            "id": "35639b310672a83a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "532d205a1756cef3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4927d3527f72175c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Docker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f272bc06d66cd942",
+  "lastOpenFiles": [
+    "DockeR - Commands.md",
+    "Docker.md",
+    "Untitled.md",
+    "Docker/docker-pictures/docker-registry-hub-workflow.png",
+    "Docker/docker-pictures/docker-image-vs-container.png",
+    "Docker/docker-pictures/docker-vs-vm.png",
+    "Docker/docker-pictures/docker-image-layers.png",
+    "Docker/docker-pictures/docker-registry-workflow.png",
+    "Docker/docker-pictures/docker-swarm-replicas.png",
+    "Docker/docker-pictures/docker-container-writeable-layer.png",
+    "Docker/docker-pictures/docker-screenshot-5.png",
+    "Docker/docker-pictures/docker-screenshot-4.png",
+    "Docker/docker-pictures/docker-screenshot-3.png",
+    "Docker/docker-pictures",
+    "a.md",
+    "Untitled.base",
+    "Docker"
+  ]
+}
